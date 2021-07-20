@@ -17,7 +17,7 @@ import java.net.URL;
 public class MainActivity2 extends AppCompatActivity {
     ImageView imageView;
     EditText editText;
-    Button btn;
+    Button btn; //abc
     URL url;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
